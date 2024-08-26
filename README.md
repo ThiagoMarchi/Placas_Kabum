@@ -16,7 +16,7 @@ Antes de executar o script, você precisa ter o seguinte instalado:
 
 - [Python](https://www.python.org/downloads/)
 - [Selenium](https://pypi.org/project/selenium/)
-- [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) (certifique-se de que a versão do ChromeDriver corresponde à versão do seu navegador Chrome)
+- [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads?hl=pt-br) (certifique-se de que a versão do ChromeDriver corresponde à versão do seu navegador Chrome)
 
 ## Descrição do Código
 
@@ -45,7 +45,7 @@ Before running the script, you need to have the following installed:
 
 - [Python](https://www.python.org/downloads/)
 - [Selenium](https://pypi.org/project/selenium/)
-- [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) (make sure the version of ChromeDriver matches your Chrome browser version)
+- [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads) (make sure the version of ChromeDriver matches your Chrome browser version)
 
 ## Code Description
 
