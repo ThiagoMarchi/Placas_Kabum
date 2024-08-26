@@ -2,8 +2,6 @@
 
 <p align="center"> Web Scraping usando Selenium e Python </p>
 
-# Web Scraping de Placas de Vídeo - Kabum
-
 ## :rocket: Sobre o projeto
 
 Este projeto utiliza a biblioteca **Selenium** para realizar web scraping em uma página de placas de vídeo do site Kabum. O script coleta informações sobre as placas de vídeo, incluindo imagem, nome e preço, e salva esses dados em um arquivo CSV.
@@ -31,9 +29,7 @@ Antes de executar o script, você precisa ter o seguinte instalado:
 
 <h1 align="center"> Python + Selenium </h1>
 
-<p align="center"> Web Scraping usando Selenium e Python </p>
-
-# Web Scraping Video Cards - Kabum
+<p align="center"> Web Scraping using Selenium and Python </p>
 
 ## :rocket: About the project 
 
