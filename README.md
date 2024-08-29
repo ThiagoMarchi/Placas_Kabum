@@ -1,34 +1,5 @@
 <h1 align="center"> Python + Selenium </h1>
 
-<p align="center"> Web Scraping usando Selenium e Python </p>
-
-## :rocket: Sobre o projeto
-
-Este projeto utiliza a biblioteca **Selenium** para realizar web scraping em uma página de placas de vídeo do site Kabum. O script coleta informações sobre as placas de vídeo, incluindo imagem, nome e preço, e salva esses dados em um arquivo CSV.
-
-## :thinking: Por que?
-
-Apenas para praticar minhas habilidades.
-
-## :warning: Pré-requisitos
-
-Antes de executar o script, você precisa ter o seguinte instalado:
-
-- [Python](https://www.python.org/downloads/)
-- [Selenium](https://pypi.org/project/selenium/)
-- [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads?hl=pt-br) (certifique-se de que a versão do ChromeDriver corresponde à versão do seu navegador Chrome)
-
-## Descrição do Código
-
-- **URL**: O script acessa a URL https://www.kabum.com.br/hardware/placa-de-video-vga.
-- **Configuração do Selenium**: O navegador Chrome é configurado para rodar em modo headless.
-- **Extração de Dados**: O script coleta o src da imagem, o nome e o preço de até 20 produtos e salva essas informações em um arquivo CSV chamado Placas_Kabum.csv.
-- **Tratamento de Erros**: Se não for possível extrair as informações, o script imprime uma mensagem de erro.
-
-
-
-<h1 align="center"> Python + Selenium </h1>
-
 <p align="center"> Web Scraping using Selenium and Python </p>
 
 ## :rocket: About the project 
